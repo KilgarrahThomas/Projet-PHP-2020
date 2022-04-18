@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c3add69-1a06-4d51-9cd2-407d339d3887" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1fix24PLe2EsSaJ9e7x1SbiwHM5" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/controller" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\geoffrey\view\Auteurs" />
+      <recent name="C:\wamp64\www\geoffrey\view\Visibility" />
+      <recent name="C:\wamp64\www\geoffrey\view\Partial\" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\geoffrey\controller" />
+      <recent name="C:\wamp64\www\geoffrey\view\Clients" />
+      <recent name="C:\wamp64\www\geoffrey\view\Collections" />
+      <recent name="C:\wamp64\www\geoffrey\view\Livres" />
+      <recent name="C:\wamp64\www\geoffrey\view\Genres" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c3add69-1a06-4d51-9cd2-407d339d3887" name="Default Changelist" comment="" />
+      <created>1596714503956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596714503956</updated>
+      <workItem from="1596714513312" duration="16996000" />
+      <workItem from="1596823422477" duration="6398000" />
+      <workItem from="1596909975553" duration="5309000" />
+      <workItem from="1596971150716" duration="20808000" />
+      <workItem from="1597067203925" duration="28549000" />
+      <workItem from="1597142272347" duration="23090000" />
+      <workItem from="1597223372123" duration="18285000" />
+      <workItem from="1597336129443" duration="14137000" />
+      <workItem from="1597405060045" duration="16740000" />
+      <workItem from="1597481742577" duration="19086000" />
+      <workItem from="1597593519707" duration="18936000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
